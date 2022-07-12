@@ -5,7 +5,7 @@
 This repository holds the data and jupyter notebook for the project.
 The jupyter notebook contains steps and comments providing the complete details on approach and outcome acheived in this project.
 
-https://www.pico.net/assets/kb/27-what-is-a-genetic-algorithm/genetic-algorithm-process-cycle.png
+<img src="https://www.pico.net/assets/kb/27-what-is-a-genetic-algorithm/genetic-algorithm-process-cycle.png">Fig. - The evolutionary cycle of a typical evolutionary algorithm. Each block represents an operation on a population of candidate solutions.
 
 ### Acknowlegdement
 
