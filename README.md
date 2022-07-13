@@ -1,6 +1,6 @@
 # Project Description
 
-## Use Genetic Algorithm to determine the optimum weight of stocks or asset classes in a given portfolio
+## Use Genetic Algorithm to determine the optimum weight of stocks or asset classes in a given investment portfolio
 
 This repository holds the data and jupyter notebook for the project.
 The jupyter notebook contains steps and comments providing the complete details on approach and outcome acheived in this project.
